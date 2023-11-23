@@ -1,7 +1,7 @@
 body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    margin-left: 25px;
-    margin-right: 25px;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 header {
@@ -11,5 +11,25 @@ header {
 }
 
 h1{
+    color: darkgreen
+    }
+
+
+h2 {
+    border-bottom: 5px solid darkgreen;
     color: orange
+}
+
+h3 {
+    border-bottom: 5px solid darkgreen;
+    color: orange
+}
+
+h4 {
+    border-bottom: 5px solid darkgreen;
+    color: orange
+}
+
+image {
+    margin-left: 200px;
 }
